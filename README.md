@@ -1,11 +1,15 @@
 AnimaGraph
 ==========
 
+ **STILL UPLOADING FILES**
+
 An UDK generated software that allows you to create graphs and run the algorithms of Dijkstra, Kruskal and Prim.
 
 Unfortunately, at the time of the release, it's only available in Portuguese (Brazilian), so Localization is it's first priority.
 
-In order to develop on it, all you need is a UDK installer copy, that can be downloaded from http://www.unrealengine.com/en/udk/downloads/
+In order to develop on it, all you need is a UDK installer copy, that can be downloaded from:
+
+http://www.unrealengine.com/en/udk/downloads/
 
 I recommend using either March 2013 (the one it's originally developed on) or July 2013 (it should work on it).
 
